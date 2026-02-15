@@ -199,7 +199,7 @@ const Index = () => {
 
         <footer className="text-center pb-8">
           <p className="text-muted-foreground text-sm font-dancing text-lg">
-            Made with 💕 for us
+            💖Made by Nayan for his Vritea💖
           </p>
         </footer>
       </div>
