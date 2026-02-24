@@ -24,7 +24,7 @@ export const LOVE_QUOTES = [
   "Love is not finding someone to live with; it's finding someone you can't live without.",
   "I want all of you, forever, every day. — Nicholas Sparks",
   "You are the answer to every prayer I've offered.",
-  "Love planted a rose, and the world turned sweet.",
+  "Just you and me togethor, and we can fight the world",
   "I choose you. And I'll choose you over and over and over.",
   "Together is a wonderful place to be.",
   "All that you are is all that I'll ever need. — Ed Sheeran",
