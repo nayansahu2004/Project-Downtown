@@ -146,7 +146,7 @@ const Index = () => {
                 {anniversary ? "🎊 Anniversary Special 🎊" : "💌 Today's Love Note"}
               </p>
               <p className="font-dancing text-2xl md:text-3xl text-primary leading-relaxed">
-                "{quote}"
+                "You and me togethor, and we can fight the world forever"
               </p>
             </CardContent>
           </Card>
