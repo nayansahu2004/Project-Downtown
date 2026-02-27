@@ -147,12 +147,13 @@ const Index = () => {
               </p>
               <p className="font-dancing text-2xl md:text-3xl text-primary leading-relaxed">
                 "{quote}"
-              </p>
-              <p>Hello Vanessa,
+                Hello Vanessa,
                 My girlfriend - my best friend - my everything - my future wife
                 I am truly grateful to have you as my girlfriend, over the past two years you have been my moral support, my constant support and my truly best girl in my life.
                 
                 I love you soo much I love you baby
+              </p>
+              <p>
               </p>
             </CardContent>
           </Card>
